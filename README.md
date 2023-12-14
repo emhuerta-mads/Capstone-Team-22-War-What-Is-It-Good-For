@@ -1,6 +1,6 @@
 ![](America.gif.gif)
-# Capstone-Team-22-War-What-Is-It-Good-For
-Capstone Team 22
+# Capstone Team 22 - War What Is It Good For?
+Erica Huerta & Julien Szarata
 
 ## Economic Indicators & Datasets
 
