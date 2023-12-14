@@ -34,7 +34,7 @@ Federal Debt=Cumulative Budget Deficits-Cumulative Budget Surpluses
 ### 5. Federal Debt-to-GDP Ratio
 Federal Debt-to-GDP ratio is a comparison of federal debt to the country’s gross domestic product at a given period in time. A higher Debt-to-GDP ratio indicates a larger debt burden relative to the size of the economy’s productive output, GDP, and can be a cause for concern when the ratio is either extremely high or increasing rapidly, potentially acting as a precursor to a fiscal crisis.
 
-	In the U.S. and globally, central banks, e.g. Federal Reserve, European Central Bank (ECB), and international organizations, e.g. United Nations, monitors the Federal Debt-to-GDP ratio to assess the overall health of a country’s economy and to provide recommendations for sustainable fiscal policies. 
+In the U.S. and globally, central banks, e.g. Federal Reserve, European Central Bank (ECB), and international organizations, e.g. United Nations, monitors the Federal Debt-to-GDP ratio to assess the overall health of a country’s economy and to provide recommendations for sustainable fiscal policies. 
 
 Federal Debt-to-GDP Ratio= Federal DebtGross Domestic Product GDP x 100
 
