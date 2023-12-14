@@ -9,6 +9,18 @@
 
 Our project analyzes multiple U.S. economic indicators, e.g. Gross Domestic Product, and attempts to model a counterfactual, i.e. if the United States was not engaged in war, what behaviors would we witness for those same economic indicators? Our project experiments with multiple machine learning models including ARMA, ARIMA, XGBOOST, and CNN, to predict a non-war counterfactual and compares the predicted versus actual economic data in an attempt to conclude war economic effects. In an effort to reduce the scope of our project to a manageable workload, we shifted the focus of our analysis to key-in on a primary macroeconomic indicator, Gross Domestic Product (GDP), which is widely sourced as the main indicator of the economic health and performance of a country. We further refined our scope to analyze two major U.S. wars over the last century, the Vietnam War and the Afghanistan War. Provided the complexity and pitfalls of the counterfactual analysis, we also included an independent country to act as a baseline for economic behavioral comparisons to enhance our findings. 
 
+## Getting Started
+The easiest way to get yourself started is to download all of the files in the **Noteboks** folder as well as all of the files in the **Data** folder. To run on your machine have all of your files in the same directory to be able to start running the notebooks without any issues. Begin in the following order
+* Run 00_Initialization.ipynb
+  * This will run all the necessary requirements from **requirements.txt** as well as any pip install that your local machine may need
+* 0_Data_Preparation.ipynb exists in the folder as a backup, but do not run this notebook. The rest of the notebooks will reference the script **0_Data_Preparation.py** for global DataFrames.
+* That's it! Now you can run any of the 3 models (ARMA/ARIMA, XGBoost, CNN) through their respective notebook. Just hit run all and watch the results populate!
+
+If you'd like to make a copy of this project you can do so by running the following command
+```
+git clone https://github.com/emhuerta-mads/Capstone-Team-22-War-What-Is-It-Good-For
+```
+
 ## Economic Indicators & Datasets
 
 ### 1. Gross Domestic Product (GDP)
