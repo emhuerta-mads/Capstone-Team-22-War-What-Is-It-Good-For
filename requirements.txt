@@ -1,0 +1,16 @@
+statsmodels
+xgboost
+--upgrade pip
+tensorflow
+keras
+--upgrade h5py
+numpy
+pandas
+matplotlib
+sklearn
+dateutil
+datetime
+math
+seaborn
+tqdm
+itertools
