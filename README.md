@@ -2,7 +2,7 @@
 # Capstone-Team-22-War-What-Is-It-Good-For
 Capstone Team 22
 
-Economic Indicators & Datasets
+## Economic Indicators & Datasets
 
 Gross Domestic Product (GDP)
 Gross Domestic Product (GDP) a comprehensive measurement of economic activity and is, therefore, a widely used indicator when discussing the health of a national or global economy. GDP measures the monetary value of all final goods and services produced by the country over a given time period, including consumer spending, government spending, economic output, national income, standard of living, amongst many others. 
