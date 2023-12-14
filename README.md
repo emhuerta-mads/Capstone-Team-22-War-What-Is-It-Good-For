@@ -2,6 +2,11 @@
 # Capstone Team 22 - War What Is It Good For?
 Erica Huerta & Julien Szarata
 
+## Project Overview
+‘War, What Is It Good For?’ is a macroeconomic analysis of war and its impact to the United States. As the Israel-Hamas war advances and the United States is furthering its engagement in the war, it’s crucial that consumers understand the economic ramifications of war beyond human cost. While the broader implications of war may not be directly evident by a populace, consumers endure economic and financial consequences as a result of war that extends beyond when war conflict ceases, such as an increase in grocery prices, increase in the unemployment rate, and a decrease in personal savings. 
+
+Our project analyzes multiple U.S. economic indicators, e.g. Gross Domestic Product, and attempts to model a counterfactual, i.e. if the United States was not engaged in war, what behaviors would we witness for those same economic indicators? Our project experiments with multiple machine learning models including ARMA, ARIMA, XGBOOST, and CNN, to predict a non-war counterfactual and compares the predicted versus actual economic data in an attempt to conclude war economic effects. In an effort to reduce the scope of our project to a manageable workload, we shifted the focus of our analysis to key-in on a primary macroeconomic indicator, Gross Domestic Product (GDP), which is widely sourced as the main indicator of the economic health and performance of a country. We further refined our scope to analyze two major U.S. wars over the last century, the Vietnam War and the Afghanistan War. Provided the complexity and pitfalls of the counterfactual analysis, we also included an independent country to act as a baseline for economic behavioral comparisons to enhance our findings. 
+
 ## Economic Indicators & Datasets
 
 ### 1. Gross Domestic Product (GDP)
