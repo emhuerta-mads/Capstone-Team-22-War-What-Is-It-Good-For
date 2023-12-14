@@ -1,7 +1,9 @@
 ![](America.gif.gif)
 # Capstone Team 22 - War What Is It Good For?
-Erica Huerta & Julien Szarata
+**Erica Huerta & Julien Szarata**
 
+:memo: Full project report can be found [here](https://drive.google.com/file/d/1suJl-UmNY6naulZ6ZoSw3wzQKNw0NjqH/view?usp=sharing)\
+ 📰 Project poster can be found [here] ()
 ## Project Overview
 ‘War, What Is It Good For?’ is a macroeconomic analysis of war and its impact to the United States. As the Israel-Hamas war advances and the United States is furthering its engagement in the war, it’s crucial that consumers understand the economic ramifications of war beyond human cost. While the broader implications of war may not be directly evident by a populace, consumers endure economic and financial consequences as a result of war that extends beyond when war conflict ceases, such as an increase in grocery prices, increase in the unemployment rate, and a decrease in personal savings. 
 
